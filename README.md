@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Full Stack developer who knows such technologies as: PHP, HTML, KSS, Laravel, Git, Javascript, etc.
+I am a Full Stack developer who knows such technologies as: PHP, HTML, СSS, Laravel, Git, Javascript, etc.
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649302eed99c9d67318ac2cd?variant=dark)](https://roadmap.sh)
