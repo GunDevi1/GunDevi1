@@ -1,6 +1,6 @@
 I'm a Full Stack developer with experience in various technologies. My skills include:
 
-- **Backend:** PHP, Laravel 🚀
+- **Backend:** PHP, Laravel, Node.JS 🚀
 - **Frontend:** HTML, CSS, JavaScript 🎨
 - **Version Control:** Git 📜
 - **Utility:** Scss ⚡
